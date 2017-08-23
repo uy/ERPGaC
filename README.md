@@ -47,8 +47,8 @@ RPG oyun türüne Clicker tarzında eklemeler ile -şimdilik- mobil platformlar�
 
 
 # İşaretlendirmeler ve Yönlendirmeler
-| İşaretlendirme | Anlamı                     |
-|---------------------------------------------|
-| **?001**        | Eklemeler yapılacak        |
-| **?002**        | İleride geliştirilebilir   |
-| **?003**        | İleride ekleme yapıalbilir |
+| İşaretlendirme  | Anlamı                       |
+| --------------- | ---------------------------- |
+| **?001**        | Eklemeler yapılacak          |
+| **?002**        | İleride geliştirilebilir     |
+| **?003**        | İleride ekleme yapıalbilir   |
