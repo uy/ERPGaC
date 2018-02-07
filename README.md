@@ -43,7 +43,6 @@ RPG oyun türüne Clicker tarzında eklemeler ile -şimdilik- mobil platformlar�
 ### Ortak Gelişim
   * Karakter ve Evcil Hayvan, ortak ilerlemesi için gerekli parametre: Tecrübe
   * Tecrübe elde etme yöntemleri
-    *
 
 
 # İşaretlendirmeler ve Yönlendirmeler
